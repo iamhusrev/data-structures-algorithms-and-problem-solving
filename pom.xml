@@ -23,6 +23,7 @@
         <module>m12-sorting-algorithms</module>
         <module>m13-searching-algorithms</module>
         <module>m14-string-algorithms</module>
+        <module>m15-problem-solving</module>
     </modules>
 
     <properties>
