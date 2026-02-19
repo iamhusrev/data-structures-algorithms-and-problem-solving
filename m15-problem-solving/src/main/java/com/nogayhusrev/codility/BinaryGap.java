@@ -1,4 +1,4 @@
-package com.nogayhusrev;
+package com.nogayhusrev.codility;
 
 /**
  https://app.codility.com/programmers/lessons/1-iterations/binary_gap/

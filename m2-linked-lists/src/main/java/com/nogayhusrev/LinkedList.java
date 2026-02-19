@@ -205,6 +205,7 @@ public class LinkedList {
         while (current != null) {
             if (!set.add(current))
                 return true;
+            current = current.next;
         }
 
         return false;
