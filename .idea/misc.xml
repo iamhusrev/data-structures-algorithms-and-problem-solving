@@ -17,6 +17,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/m0-code-with-mosh-solutions/pom.xml" />
+        <option value="$PROJECT_DIR$/m15-problem-solving/cydeo/pom.xml" />
         <option value="$PROJECT_DIR$/m2-linked-list/pom.xml" />
       </set>
     </option>
