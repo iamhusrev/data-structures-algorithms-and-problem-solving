@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.iamhusrev</groupId>
-    <artifactId>data-structures-and-algorithms-java</artifactId>
+    <artifactId>data-structures-algorithms-and-problem-solving</artifactId>
     <version>1.0.0</version>
     <packaging>pom</packaging>
     <modules>
